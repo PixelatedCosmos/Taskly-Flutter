@@ -1,16 +1,16 @@
-# taskly
+# Taskly
 
-A new Flutter project.
+Taskly is a simple task management app built with Flutter. It allows users to create tasks, mark them as finished, delete them, and toggle between dark mode and light mode. It was my first Flutter project that I did couple months ago.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Create tasks
+- Mark tasks as finished
+- Delete tasks
+- Dark mode and light mode toggle
 
-A few resources to get you started if this is your first Flutter project:
+## Built With
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Hive (for database)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
